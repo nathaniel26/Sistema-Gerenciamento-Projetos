@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(145, 145, 145);
+}
+
+.cont form{
+    margin-left: 27em;
+}
+.cont h1, h3{
+    text-align: center;
+}
+
